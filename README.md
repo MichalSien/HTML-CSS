@@ -1,2 +1,2 @@
-<h1> Tworzenie cv w HTML/CSS <br>
-W trakcie budowy
+<h2> Tworzenie cv w HTML/CSS <br>
+<h3>W trakcie budowy
