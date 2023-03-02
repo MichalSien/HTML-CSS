@@ -1,2 +1,2 @@
-Tworzenie CV w html, css
-W trakcie produkcji
+#CV
+Tworzenie cv w HTML/CSS
